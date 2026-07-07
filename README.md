@@ -76,7 +76,7 @@ In Progress:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithyuvi06&theme=tokyonight&hide_border=true&background=00000000&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=8fd9ff&dates=8fd9ff&border_radius=15" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=codewithyuvi06&theme=tokyonight&hide_border=true&background=00000000&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=8fd9ff&dates=8fd9ff" width="70%"/>
 
 <br/>
 

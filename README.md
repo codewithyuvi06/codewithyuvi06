@@ -80,7 +80,7 @@ In Progress:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyuvi06&theme=react-dark&hide_border=true&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyuvi06&theme=react-dark&hide_border=true&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&v=2" width="90%"/>
 
 </div>
 
